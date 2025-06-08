@@ -8,8 +8,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
-| 2025-W02 | Java 기초, OOP | [study-log/lectures/Java Basic](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/Java%20Basic) |
-| 2025-W01 | Java 기초, OOP | [study-log/lectures/Java Basic](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/Java%20Basic) |
+| 2025-W02 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
+| 2025-W01 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
 
 > 📌 전체 기록은 [study-log 레포지토리](https://github.com/Sangun-Lee-6/study-log)에서 확인하실 수 있습니다.
 
