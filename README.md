@@ -8,6 +8,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W03 | 스프링 입문 | [study-log/lectures/spring-intro](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/spring-intro) |
 | 2025-W02 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
 | 2025-W01 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
 
