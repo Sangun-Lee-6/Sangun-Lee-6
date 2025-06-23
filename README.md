@@ -8,6 +8,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W04 | DB 개론, sql | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
 | 2025-W03 | 스프링 입문 | [study-log/lectures/spring-intro](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/spring-intro) |
 | 2025-W02 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
 | 2025-W01 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
@@ -19,9 +20,16 @@
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Koa](https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=koa&logoColor=white)
+<br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
 
 ---
 
