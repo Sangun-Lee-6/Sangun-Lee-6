@@ -9,8 +9,8 @@
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
 | 2025-W05 | 스프링 핵심 - 기본편 | [study-log/lectures/spring-core-basic](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/spring-core-basic) |
-| 2025-W05 | 스프링 사이드 프로젝트 v1.0 | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/spring-playground) |
-| 2025-W05 | 1000줄 OS(ch1-4) | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/os-in-1000-lines) |
+| 2025-W05 | 스프링 사이드 프로젝트 v1.0 | [spring-playground](https://github.com/Sangun-Lee-6/spring-playground) |
+| 2025-W05 | 1000줄 OS(ch1-4) | [os-in-1000-lines](https://github.com/Sangun-Lee-6/os-in-1000-lines) |
 | 2025-W04 | DB 개론, sql | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
 | 2025-W03 | 스프링 입문 | [study-log/lectures/spring-intro](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/spring-intro) |
 | 2025-W02 | Java 기초, OOP | [study-log/lectures/java-basic/src](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/java-basic/src) |
