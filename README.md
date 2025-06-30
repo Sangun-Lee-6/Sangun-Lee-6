@@ -8,7 +8,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
-| 2025-W05 | 스프링 핵심 - 기본편 | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
+| 2025-W05 | 스프링 핵심 - 기본편 | [study-log/lectures/spring-core-basic](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/spring-core-basic) |
 | 2025-W05 | 스프링 사이드 프로젝트 | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
 | 2025-W05 | OS 구현 | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
 | 2025-W04 | DB 개론, sql | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
