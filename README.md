@@ -8,10 +8,10 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
-| 2025-W06 | 스프링 핵심 - 기본편(ch3-4) | [study-log/lectures/spring-core-basic](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
+| 2025-W06 | 스프링 핵심 - 기본편(ch3-4) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W06 | 『객체지향의 사실과 오해』(ch3-5) | [study-log/books/object-oriented-truth-and-myth](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object-oriented-truth-and-myth) |
 | 2025-W06 | 1000줄 OS(ch5) | [os-in-1000-lines](https://github.com/Sangun-Lee-6/os-in-1000-lines) |
-| 2025-W05 | 스프링 핵심 - 기본편(ch2) | [study-log/lectures/spring-core-basic](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
+| 2025-W05 | 스프링 핵심 - 기본편(ch2) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W05 | 스프링 사이드 프로젝트 v1.0 | [spring-playground](https://github.com/Sangun-Lee-6/spring-playground) |
 | 2025-W05 | 1000줄 OS(ch1-4) | [os-in-1000-lines](https://github.com/Sangun-Lee-6/os-in-1000-lines) |
 | 2025-W04 | DB 개론, sql | [study-log/lectures/db-sql](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/db-sql) |
