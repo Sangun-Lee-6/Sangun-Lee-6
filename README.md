@@ -8,6 +8,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W07 | 『오브젝트』(ch1) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W07 | 스프링 핵심 - 기본편(ch5-7) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W06 | 스프링 핵심 - 기본편(ch3-4) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W06 | 『객체지향의 사실과 오해』(ch3-5) | [study-log/books/object-oriented-truth-and-myth](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object-oriented-truth-and-myth) |
 | 2025-W06 | 1000줄 OS(ch5) | [os-in-1000-lines](https://github.com/Sangun-Lee-6/os-in-1000-lines) |
