@@ -8,6 +8,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W08 | 『오브젝트』(ch2) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W08 | 스프링 핵심 -기본편(ch1-7) 적용 | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
 | 2025-W07 | 『오브젝트』(ch1) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
 | 2025-W07 | 스프링 핵심 - 기본편(ch5-7) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W06 | 스프링 핵심 - 기본편(ch3-4) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
@@ -37,6 +39,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<br>
 
 
 ---
