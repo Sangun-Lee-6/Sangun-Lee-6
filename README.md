@@ -8,6 +8,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W09 | 『오브젝트』(ch3) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W09 | 실전!스프링부트와 JPA 활용 1편 | [study-log/jpashop](https://github.com/Sangun-Lee-6/jpashop) |
 | 2025-W08 | 『오브젝트』(ch2) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
 | 2025-W08 | 스프링 핵심 -기본편(ch1-6) 적용 | [spring-core-in-action](https://github.com/Sangun-Lee-6/spring-core-in-action) |
 | 2025-W07 | 『오브젝트』(ch1) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
