@@ -8,6 +8,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W10 | 『오브젝트』(ch4) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W10 | [스프링부트 + JPA] 물류 도메인 프로젝트 | [mini-WMS](https://github.com/Sangun-Lee-6/mini-WMS) |
 | 2025-W09 | 『오브젝트』(ch3) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
 | 2025-W09 | 실전!스프링부트와 JPA 활용 1편 | [study-log/jpa-shop](https://github.com/Sangun-Lee-6/jpa-shop) |
 | 2025-W08 | 『오브젝트』(ch2) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
