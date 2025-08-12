@@ -8,13 +8,15 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
-| 2025-W10 | 『오브젝트』(ch4) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W11 | 『오브젝트』(ch5) | [oop-object-study/issues/18](https://github.com/awesome-study-crew/oop-object-study/issues/18) |
+| 2025-W11 | 모든 개발자를 위한 HTTP 웹 기본 지식 | study-log/lectures/http |
+| 2025-W10 | 『오브젝트』(ch4) | [oop-object-study/issues/13](https://github.com/awesome-study-crew/oop-object-study/issues/13) |
 | 2025-W10 | [스프링부트 + JPA] 물류 도메인 프로젝트 | [mini-WMS](https://github.com/Sangun-Lee-6/mini-WMS) |
-| 2025-W09 | 『오브젝트』(ch3) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W09 | 『오브젝트』(ch3) | [oop-object-study/issues/11](https://github.com/awesome-study-crew/oop-object-study/issues/11) |
 | 2025-W09 | 실전!스프링부트와 JPA 활용 1편 | [study-log/jpa-shop](https://github.com/Sangun-Lee-6/jpa-shop) |
-| 2025-W08 | 『오브젝트』(ch2) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W08 | 『오브젝트』(ch2) | [oop-object-study/issues/9](https://github.com/awesome-study-crew/oop-object-study/issues/9) |
 | 2025-W08 | 스프링 핵심 -기본편(ch1-6) 적용 | [spring-core-in-action](https://github.com/Sangun-Lee-6/spring-core-in-action) |
-| 2025-W07 | 『오브젝트』(ch1) | [study-log/books/object](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object) |
+| 2025-W07 | 『오브젝트』(ch1) | [oop-object-study/issues/3](https://github.com/awesome-study-crew/oop-object-study/issues/3) |
 | 2025-W07 | 스프링 핵심 - 기본편(ch5-7) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W06 | 스프링 핵심 - 기본편(ch3-4) | [study-log/lectures/core](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/core) |
 | 2025-W06 | 『객체지향의 사실과 오해』(ch3-5) | [study-log/books/object-oriented-truth-and-myth](https://github.com/Sangun-Lee-6/study-log/tree/main/books/object-oriented-truth-and-myth) |
