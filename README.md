@@ -8,6 +8,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W13 | 『오브젝트』(ch7) | [oop-object-study/issues/22](https://github.com/awesome-study-crew/oop-object-study/issues/22) |
+| 2025-W13 | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술(ch6-7) | study-log/lectures/spring-mvc1 |
 | 2025-W12 | 『오브젝트』(ch6) | [oop-object-study/issues/20](https://github.com/awesome-study-crew/oop-object-study/issues/20) |
 | 2025-W12 | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술(ch1-5) | study-log/lectures/spring-mvc1 |
 | 2025-W11 | 『오브젝트』(ch5) | [oop-object-study/issues/18](https://github.com/awesome-study-crew/oop-object-study/issues/18) |
