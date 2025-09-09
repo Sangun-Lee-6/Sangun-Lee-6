@@ -8,6 +8,9 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W15 | 『오브젝트』(ch9) | [oop-object-study/issues/27](https://github.com/awesome-study-crew/oop-object-study/issues/27) |
+| 2025-W15 | 자바 ORM 표준 JPA 프로그래밍 - 기본편(ch2-7) | study-log/lectures/jpa |
+| 2025-W14 | 『오브젝트』(ch8) | [oop-object-study/issues/24](https://github.com/awesome-study-crew/oop-object-study/issues/24) |
 | 2025-W13 | 『오브젝트』(ch7) | [oop-object-study/issues/22](https://github.com/awesome-study-crew/oop-object-study/issues/22) |
 | 2025-W13 | 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술(ch6-7) | study-log/lectures/spring-mvc1 |
 | 2025-W12 | 『오브젝트』(ch6) | [oop-object-study/issues/20](https://github.com/awesome-study-crew/oop-object-study/issues/20) |
@@ -46,6 +49,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Koa](https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=koa&logoColor=white)
 <br>
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
