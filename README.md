@@ -9,6 +9,7 @@
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
 | 2025-W16 | 『오브젝트』(ch10) | [oop-object-study/issues/32](https://github.com/awesome-study-crew/oop-object-study/issues/32) |
+| 2025-W16 | Java/Spring 테스트를 추가하고 싶은 개발자들의 오답노트(ch1-5) | study-log/lectures/test_code_with_architecture |
 | 2025-W15 | 『오브젝트』(ch9) | [oop-object-study/issues/27](https://github.com/awesome-study-crew/oop-object-study/issues/27) |
 | 2025-W15 | 자바 ORM 표준 JPA 프로그래밍 - 기본편(ch2-7) | study-log/lectures/jpa |
 | 2025-W14 | 『오브젝트』(ch8) | [oop-object-study/issues/24](https://github.com/awesome-study-crew/oop-object-study/issues/24) |
