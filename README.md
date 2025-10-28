@@ -8,6 +8,9 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W19 | 『오브젝트』(ch15) | [oop-object-study/issues/41](https://github.com/awesome-study-crew/oop-object-study/issues/41) |
+| 2025-W19 | Spring Boot TDD - 입문부터 실전까지 정확하게(ch1-ch8) | study-log/lectures/tdd-springboot |
+| 2025-W18 | 『오브젝트』(ch14) | [oop-object-study/issues/38](https://github.com/awesome-study-crew/oop-object-study/issues/38) |
 | 2025-W17 | 『오브젝트』(ch12) | [oop-object-study/issues/35](https://github.com/awesome-study-crew/oop-object-study/issues/35) |
 | 2025-W16 | 『오브젝트』(ch10) | [oop-object-study/issues/32](https://github.com/awesome-study-crew/oop-object-study/issues/32) |
 | 2025-W16 | Java/Spring 테스트를 추가하고 싶은 개발자들의 오답노트(ch1-5) | study-log/lectures/test_code_with_architecture |
@@ -59,6 +62,9 @@
 <br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 <br>
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<br>
+![TDD](https://img.shields.io/badge/TDD-FF6F00?style=for-the-badge&logo=junit5&logoColor=white)
 
 
 ---
