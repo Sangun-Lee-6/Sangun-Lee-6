@@ -8,6 +8,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W20 | 아파치 카프카 애플리케이션 프로그래밍(ch1-ch5) | study-log/lectures/apache-kafka-application-programming |
 | 2025-W19 | 『오브젝트』(ch15) | [oop-object-study/issues/41](https://github.com/awesome-study-crew/oop-object-study/issues/41) |
 | 2025-W19 | Spring Boot TDD - 입문부터 실전까지 정확하게(ch1-ch8) | study-log/lectures/tdd-springboot |
 | 2025-W18 | 『오브젝트』(ch14) | [oop-object-study/issues/38](https://github.com/awesome-study-crew/oop-object-study/issues/38) |
