@@ -8,6 +8,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2025-W22 | 알면 칼퇴하는 Spring Boot 백엔드 바이브 코딩 맛보기 | - |
 | 2025-W21 | 카프카 완벽 가이드 - 코어(ch1-ch3) | study-log/lectures/kafka-perfect-guide-core |
 | 2025-W21 | 아파치 카프카 애플리케이션 프로그래밍(ch6) | study-log/lectures/apache-kafka-application-programming |
 | 2025-W20 | 아파치 카프카 애플리케이션 프로그래밍(ch1-ch5) | study-log/lectures/apache-kafka-application-programming |
