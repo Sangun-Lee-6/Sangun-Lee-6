@@ -6,7 +6,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
-| 2026-W01 | - | - |
+| 2026-W01 | 데이터 엔지니어의 책임 | [reads/data engineering](https://github.com/Sangun-Lee-6/study-log/tree/main/reads/data%20engineering) |
+| 2026-W01 | 견고한 데이터 엔지니어링(1,2장) | [books/Fundamentals of Data Engineering](https://github.com/Sangun-Lee-6/study-log/tree/main/books/Fundamentals%20of%20Data%20Engineering) |
 
 ---
 
