@@ -6,6 +6,9 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2026-W02 | 휘발성 RSS source에서 raw snapshot 보존과 downstream dedup 분리 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/MK%20RSS%20raw%20dedup%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95.md) |
+| 2026-W02 | 외부 데이터 소스별 수집 전략 설계 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/study-log/tree/main/reads/data%20engineering](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EC%A3%BC%EC%9A%94%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.md)) |
+| 2026-W02 | 킴볼 데이터 모델링, 실무적인 데이터 모델링 프로세스 | [reads/data engineering](https://github.com/Sangun-Lee-6/study-log/tree/main/reads/data%20engineering) |
 | 2026-W01 | 데이터 엔지니어의 책임 | [reads/data engineering](https://github.com/Sangun-Lee-6/study-log/tree/main/reads/data%20engineering) |
 | 2026-W01 | 견고한 데이터 엔지니어링(1,2장) | [books/Fundamentals of Data Engineering](https://github.com/Sangun-Lee-6/study-log/tree/main/books/Fundamentals%20of%20Data%20Engineering) |
 
