@@ -6,6 +6,8 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2026-W04 | Apache Airflow OSSCA 1주차 활동 | [reads/airflow/airflow-ossca-report](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/airflow/airflow-ossca-report/week-01-report.md) |
+| 2026-W04 | DuckDB 동시 쓰기 문제 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/DuckDB%20%EB%8F%99%EC%8B%9C%20%EC%93%B0%EA%B8%B0%20%EB%AC%B8%EC%A0%9C.md) |
 | 2026-W04 | 오케스트레이션 주요 엔지니어링 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%A3%BC%EC%9A%94%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.md) |
 | 2026-W03 | 데이터 변환 엔지니어링(해석 가능한 형태로 변환하기) | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B3%80%ED%99%98%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81(%ED%95%B4%EC%84%9D%20%EA%B0%80%EB%8A%A5%ED%95%9C%20%ED%98%95%ED%83%9C%EB%A1%9C%20%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0).md) |
 | 2026-W02 | 휘발성 RSS source에서 raw snapshot 보존과 downstream dedup 분리 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/MK%20RSS%20raw%20dedup%20%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95.md) |
