@@ -6,6 +6,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2026-W05 | DuckDB 동시 쓰기 문제 해결 과정 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/DuckDB%20%EB%8F%99%EC%8B%9C%20%EC%93%B0%EA%B8%B0%20%EB%AC%B8%EC%A0%9C%20%ED%95%B4%EA%B2%B0%20%EA%B3%BC%EC%A0%95.md) |
 | 2026-W04 | Apache Airflow OSSCA 1주차 활동 | [reads/airflow/airflow-ossca-report](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/airflow/airflow-ossca-report/week-01-report.md) |
 | 2026-W04 | DuckDB 동시 쓰기 문제 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/DuckDB%20%EB%8F%99%EC%8B%9C%20%EC%93%B0%EA%B8%B0%20%EB%AC%B8%EC%A0%9C.md) |
 | 2026-W04 | 오케스트레이션 주요 엔지니어링 | [stock-signal-pipeline](https://github.com/Sangun-Lee-6/stock-signal-pipeline/blob/main/docs/data-engineering-lifecycle/%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%A3%BC%EC%9A%94%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81.md) |
