@@ -6,7 +6,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
-| 2026-W07 | DE를 위한 SQL | sql-for-de |
+| 2026-W07 | Apache Iceberg Overview | [reads/apache-iceberg](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/apache-iceberg/Apache%20Iceberg%20Overview.md) |
 | 2026-W07 | Apache Airflow OSSCA 4주차 활동 | reads/airflow/airflow-ossca-report |
 | 2026-W06 | Apache Airflow OSSCA 3주차 활동 | [reads/airflow/airflow-ossca-report](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/airflow/airflow-ossca-report/week-03-report.md) |
 | 2026-W05 | Apache Airflow OSSCA 2주차 활동 | [reads/airflow/airflow-ossca-report](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/airflow/airflow-ossca-report/week-02-report.md) |
