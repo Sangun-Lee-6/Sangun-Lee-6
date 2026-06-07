@@ -6,6 +6,7 @@
 
 | Week | Topic | Repository / Files |
 |------|---------------------------|------------------------------|
+| 2026-W08 | Docker | [lectures/비전공자도 이해할 수 있는 Docker 입문,실전](https://github.com/Sangun-Lee-6/study-log/tree/main/lectures/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%8F%84%20%EC%9D%B4%ED%95%B4%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20Docker%20%EC%9E%85%EB%AC%B8%7C%EC%8B%A4%EC%A0%84) |
 | 2026-W07 | Apache Iceberg Overview | [reads/apache-iceberg](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/apache-iceberg/Apache%20Iceberg%20Overview.md) |
 | 2026-W07 | Apache Airflow OSSCA 4주차 활동 | reads/airflow/airflow-ossca-report |
 | 2026-W06 | Apache Airflow OSSCA 3주차 활동 | [reads/airflow/airflow-ossca-report](https://github.com/Sangun-Lee-6/study-log/blob/main/reads/airflow/airflow-ossca-report/week-03-report.md) |
